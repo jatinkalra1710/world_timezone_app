@@ -9,8 +9,9 @@ according to the time
     -Date
     -Weather
     -Dark Mode
+    -Calender
 
 # Author
 - Jatin Kalra
-- linkedin - jatinkalra1710
+- Linkedin - www.linkedin.com/in/jatinkalra1710
 - 
